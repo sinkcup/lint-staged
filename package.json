@@ -1,14 +1,15 @@
 {
-  "name": "lint-staged",
-  "version": "0.0.0-development",
-  "description": "Lint files staged by git",
+  "name": "lint-staged-mr",
+  "version": "12.4.2",
+  "description": "Lint files in git staged and MR/PR",
   "license": "MIT",
-  "repository": "https://github.com/okonet/lint-staged",
+  "repository": "https://github.com/sinkcup/lint-staged",
   "author": "Andrey Okonetchnikov <andrey@okonet.ru>",
   "maintainers": [
     "Lufty Wiranda <lufty.wiranda@gmail.com>",
     "Suhas Karanth <sudo.suhas@gmail.com>",
-    "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)"
+    "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
+    "Sink <sinkcup@gmail.com>"
   ],
   "funding": {
     "url": "https://opencollective.com/lint-staged"
